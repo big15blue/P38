@@ -1,0 +1,19 @@
+로컬 파일 관리 하기 (기본)
+
+1. 폴더 생성
+2. Create Repository 
+	2-1 .git 폴더(숨김해제)
+3. 파일 생성(복사)
+4. ADD (관리 리스트 추가)
+5. add한 파일을 저장 commit(로컬 저장소에 저장)
+	5-1. message는 잘 적어주세요.
+	5-2. 자주 commit(의미 커밋)
+
+6. revert (되돌리기)
+7. 빈폴더는 관리 되지 않음
+8. 임시로 working tree에서 작업하는 파일은 제외
+	8-1 ignore처리
+	8-2 .gitignore add, commit
+	8-2 gitignore.io에서 사용하는 프로젝트 무시 목록 받을 수 있음
+		텍스트 에디터로 만들어 주면 됨
+		

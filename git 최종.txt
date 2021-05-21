@@ -1,0 +1,13 @@
+1. 언리얼 프로젝트 생성
+2. create repository
+3. gitignore.io unrealengin 검색 후에 
+4. .gitignore (확장자 없음)
+5. cd 프로젝트 경로 이동
+6. git lfs install (lfs 설치)
+7. git lfs track content/*
+8. commit (tortoiseGit)
+9. github 프로젝트 생성
+10. Push exist repository 내용을 복사해서 해서 실행
+11. ReameME
+
+그럴듯 하게 설정
